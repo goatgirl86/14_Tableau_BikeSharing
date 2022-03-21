@@ -51,7 +51,7 @@ Viz 4: Trips by Hour of the Day, split by Gender. This figure illustrates that m
 ![image](https://user-images.githubusercontent.com/92705556/159193212-af6beec4-8a87-41b6-a9c3-319f8e502efb.png)
 
  
-Viz 5: Trips by User Type, split by Gender. This figure illustrates that most rides are taken by “Subscribers” and are taken by taken by men on Thursday.  
+Viz 5: Trips by User Type, split by Gender. This figure illustrates that most rides are taken by “Subscribers” and are taken by men on Thursdays.  
  
 ![image](https://user-images.githubusercontent.com/92705556/159193222-fcb7f6ce-bb95-42bc-978e-27e85d83f681.png)
 
@@ -66,12 +66,12 @@ Viz 7: Usage by Bike Id. This figure illustrates the individual bikes with the m
  ![image](https://user-images.githubusercontent.com/92705556/159193232-e8030035-88cc-472f-ac1c-b73f5e483b34.png)
 
 
-Viz 8: Rides by Birth Year. This figure illustrates the number of rides by birth year that can be extrapolated to say “# of rides by age”.  You can see there is a huge spike in ridership of individuals born around 1970 (50 year olds) and around 1990 (30 year olds).
+Viz 8: Rides by Birth Year. This figure illustrates the number of rides by birth year that can be extrapolated to say “number of rides by age”.  You can see there is a huge spike in ridership of individuals born around 1970 (50 year olds) and around 1990 (30 year olds).
  
  ![image](https://user-images.githubusercontent.com/92705556/159193238-e9bf08a8-733e-43d3-8021-d09e5394f9ff.png)
 
  
-Viz 9: Rides by Station Name. This graph shows all the station names and the # of "start rides" from those stations. This info could be helpful to determine where more bikes should be added or where stations may not be worth the cost of upkeep.
+Viz 9: Rides by Station Name. This graph shows all the station names and the number of "start rides" from those stations. This info could be helpful to determine where more bikes should be added or which stations may not be worth the cost of upkeep.
 
  
 ![image](https://user-images.githubusercontent.com/92705556/159193239-5879299a-8e38-4373-82ff-62a98bd47cb0.png)
@@ -79,7 +79,11 @@ Viz 9: Rides by Station Name. This graph shows all the station names and the # o
 
 ## Summary
 ### Conclusion
-Citi Bike NYC is a fruitful business seeing lots of ridership.  Men were the primary user in 2019 with most of them taking short rides around 5 minutes in length.  Most rides took place in Manhattan where there is a high density of jobs and many tourist attractions.  Citi Bike should consider individual bike usage when prioritizing repairs.  Citi Bike may also consider doing some additional targeted advertising that will encourage increased ridership by women.  
+Citi Bike NYC is a fruitful business seeing lots of ridership.  
+- Men were the primary user in 2019 with most of them taking short rides around 5 minutes in length.  
+- Most rides took place in Manhattan where there is a high density of jobs and many tourist attractions.  
+- Citi Bike should consider individual bike usage when prioritizing repairs.  
+- Citi Bike may also consider doing some additional targeted advertising that will encourage increased ridership by women.  
 
 ### Future Analysis
 I actually already completed two additional analyses on my own (see Viz 8 and Viz 9 above).  Viz 8 shows ridership by birth year (to determine what age of riders are the greatest users).  Viz 9 shows ridership by station name (to determine which stations need more bikes vs which ones may need to be closed).  
