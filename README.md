@@ -3,7 +3,7 @@
 ## Relevant Folders and/or Files
 -	CSV files not uploaded to GitHub due to size.  
 -	NYC_CitiBike_Challenge.ipynb
--	Tableau Story: ** https://public.tableau.com/views/CitiBikeChallenge_16478201998300/CitiBikeTheNewWaytoExperienceNYC?:language=en-US&:display_count=n&:origin=viz_share_link**
+-	Tableau Story: **https://public.tableau.com/views/CitiBikeChallenge_16478201998300/CitiBikeTheNewWaytoExperienceNYC?:language=en-US&:display_count=n&:origin=viz_share_link**
 
 ## Project Overview
 
