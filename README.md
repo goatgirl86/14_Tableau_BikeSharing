@@ -82,6 +82,6 @@ Viz 9: Rides by Station Name. This graph shows all the station names and the # o
 Citi Bike NYC is a fruitful business seeing lots of ridership.  Men were the primary user in 2019 with most of them taking short rides around 5 minutes in length.  Most rides took place in Manhattan where there is a high density of jobs and many tourist attractions.  Citi Bike should consider individual bike usage when prioritizing repairs.  Citi Bike may also consider doing some additional targeted advertising that will encourage increased ridership by women.  
 
 ### Future Analysis
-I actually already completed two additional analyses on my own (see Viz 8 and Viz 9).  Viz 8 shows ridership by birth year (to determine what age of riders are the greatest users).  Viz 9 shows ridership by station name (to determine which stations need more bikes vs which ones may need to be closed).  
+I actually already completed two additional analyses on my own (see Viz 8 and Viz 9 above).  Viz 8 shows ridership by birth year (to determine what age of riders are the greatest users).  Viz 9 shows ridership by station name (to determine which stations need more bikes vs which ones may need to be closed).  
 
 
