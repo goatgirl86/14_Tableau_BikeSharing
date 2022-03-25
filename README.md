@@ -3,7 +3,7 @@
 ## Relevant Folders and/or Files
 -	CSV files not uploaded to GitHub due to size.  
 -	NYC_CitiBike_Challenge.ipynb
--	Tableau Story: **https://public.tableau.com/views/CitiBikeChallenge_16478201998300/CitiBikeTheNewWaytoExperienceNYC?:language=en-US&:display_count=n&:origin=viz_share_link**
+-	Tableau Story (pdf in Git Hub): **https://public.tableau.com/views/CitiBikeChallenge_16478201998300/CitiBikeTheNewWaytoExperienceNYC?:language=en-US&:display_count=n&:origin=viz_share_link**
 
 ## Project Overview
 
@@ -79,7 +79,7 @@ Viz 9: Rides by Station Name. This graph shows all the station names and the num
 
 ## Summary
 ### Conclusion
-Citi Bike NYC is a fruitful business seeing lots of ridership.  
+Citi Bike NYC is a successful business seeing lots of ridership.  
 - Men were the primary user in 2019 with most of them taking short rides around 5 minutes in length.  
 - Most rides took place in Manhattan where there is a high density of jobs and many tourist attractions.  
 - Citi Bike should consider individual bike usage when prioritizing repairs.  
