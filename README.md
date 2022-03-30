@@ -8,7 +8,7 @@
 ## Project Overview
 
 ### Purpose
-The purpose of this challenge was to help “Kate” assess NYC Citi Bike data from August 2019 and then create a story in Tableau illustrating key outcomes of the NYC Citibike analysis.
+The purpose of this challenge was to use Tableau to help “Kate” assess NYC Citi Bike data from August 2019 and then create a story in Tableau illustrating key outcomes of the NYC Citibike analysis.
 
 ### Data Analyzed
 New York City Citi Bike Data (August 2019):
